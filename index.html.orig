@@ -65,7 +65,11 @@
           </div>
           <div class="col-lg-5 my-auto">
             <div class="device-container">
+<<<<<<< HEAD
+              <div class="device-mockup macbook portrait white">
+=======
               <div class="device-mockup macbook_2015 silver">
+>>>>>>> 7b5912e59d2942a7568303ad3fd8ae904faac817
                 <div class="device">
                   <div class="screen">
                     <!-- Demo image for screen mockup, you can put an image here, some HTML, an animation, video, or anything else! -->
