@@ -13,9 +13,9 @@ Install using the repository
 -----------------------------
 Before you install Docker CE for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker
 
-```bash
-$ sudo yum install -y yum-utils device-mapper-persistent-data lvm2
-```
+  ```bash
+  $ sudo yum install -y yum-utils device-mapper-persistent-data lvm2
+  ```
 
 
 
