@@ -1,9 +1,10 @@
 ---
 layout: posts
+title: Install Docker CE - CentOS
 ---
 
 
-Install Docker CE - CentOS
+{{ page.title}}
 ==========================
 
 source: https://docs.docker.com/install/linux/docker-ce/centos/
