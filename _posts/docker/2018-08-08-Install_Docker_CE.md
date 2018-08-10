@@ -1,3 +1,8 @@
+---
+layout: posts
+---
+
+
 Install Docker CE - CentOS
 ==========================
 
