@@ -1,0 +1,9 @@
+version: '3.1'
+services:
+  web-service:
+    command: jekyll s --drafts --future --force_polling 
+    image: jekyll/jekyll:3.5
+    volumes:
+      - /opt/site:/srv/jekyll
+    expose:
+      - 4000
