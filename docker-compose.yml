@@ -1,6 +1,7 @@
 version: '3.1'
 services:
   web-service:
+    container_name: website
     command: jekyll s --drafts --future --force_polling 
     image: jekyll/jekyll:3.5
     volumes:
